@@ -1,0 +1,101 @@
+Product_ID,Product_Name,Category,Price,Stock
+E001,USB Type-C Charging Cable 1m,Accessories,299.0,150
+E002,Wired Earphones with Mic,Audio,399.0,85
+E003,Bluetooth 5.0 Audio Adapter,Accessories,499.0,0
+E004,Ergonomic Optical Mouse,Computing,450.0,60
+E005,Wireless Mechanical Keyboard,Computing,2499.0,25
+E006,10000mAh Power Bank,Power,1299.0,40
+E007,Fast Wall Charger 20W,Power,699.0,90
+E008,RGB Gaming Mouse Pad,Gaming,599.0,30
+E009,Full HD 1080p Webcam,Computing,1899.0,0
+E010,Bluetooth Wireless Speaker,Audio,1499.0,45
+E011,Active Noise Cancelling TWS Earbuds,Audio,2999.0,15
+E012,Over-Ear Studio Headphones,Audio,4499.0,10
+E013,Smart LED Bulb 9W,Smart Home,499.0,120
+E014,Smart Plug 16A,Smart Home,899.0,55
+E015,Wi-Fi Security Camera 360,Smart Home,2299.0,18
+E016,Fitness Smart Band,Wearables,1799.0,0
+E017,Bluetooth Smartwatch with AMOLED,Wearables,3999.0,22
+E018,Laptop Cooling Pad with Fans,Accessories,999.0,35
+E019,Type-C Multiport USB Hub,Accessories,1299.0,50
+E020,HDMI 2.0 Cable 1.5m,Accessories,399.0,75
+E021,Solid State Drive (SSD) 512GB NVMe,Computing,3499.0,12
+E022,External Hard Drive 1TB,Computing,4899.0,8
+E023,DDR4 RAM 8GB 3200MHz,Computing,2199.0,20
+E024,Gaming Controller / Gamepad,Gaming,1899.0,14
+E025,Condenser Microphone for Streaming,Audio,3299.0,5
+E026,Ring Light 10 inch with Stand,Photography,1199.0,40
+E027,Flexible Smartphone Tripod,Photography,499.0,65
+E028,Wireless Presentation Clicker,Accessories,799.0,28
+E029,Ethernet LAN Cable Cat6 3m,Accessories,249.0,110
+E030,Car Phone Mount Holder,Accessories,450.0,50
+E031,Portable Bluetooth Soundbar,Audio,2599.0,0
+E032,Rechargeable Table Lamp with USB,Smart Home,899.0,30
+E033,Smart Door Sensor,Smart Home,699.0,25
+E034,Mini Portable Projector,Electronics,12999.0,4
+E035,Graphics Drawing Tablet,Computing,4199.0,9
+E036,Vertical Ergonomic Mouse,Computing,1299.0,16
+E037,Backlit Wired Gaming Keyboard,Gaming,1499.0,22
+E038,RGB LED Strip Light 5m,Smart Home,599.0,80
+E039,Universal Travel Adapter,Accessories,549.0,45
+E040,Solar Power Bank 20000mAh,Power,2499.0,0
+E041,Qi Wireless Charging Pad,Power,899.0,35
+E042,Type-C to Lightning Cable,Accessories,799.0,60
+E043,Micro SD Card 64GB Class 10,Accessories,599.0,90
+E044,Micro SD Card 128GB,Accessories,999.0,50
+E045,USB Flash Drive 64GB,Accessories,499.0,70
+E046,USB Flash Drive 128GB,Accessories,899.0,40
+E047,Bluetooth Car Kit MP3 Player,Accessories,699.0,25
+E048,Smart Wi-Fi IR Blaster,Smart Home,1299.0,15
+E049,Smart Video Doorbell,Smart Home,4999.0,6
+E050,Wi-Fi Range Extender / Repeater,Computing,1499.0,18
+E051,Dual-Band Wi-Fi Router AC1200,Computing,1899.0,20
+E052,Gigabit 5-Port Network Switch,Computing,999.0,30
+E053,External DVD Writer Optical Drive,Computing,2299.0,0
+E054,Laptop Sleeve 15.6 inch,Accessories,699.0,45
+E055,Hard Shell Backpack for Laptop,Accessories,1999.0,12
+E056,Smart Digital Weighing Scale,Health,1299.0,22
+E057,Electric Toothbrush Rechargeable,Health,1499.0,15
+E058,Trimmer for Men waterproof,Personal Care,999.0,40
+E059,Hair Dryer Foldable,Personal Care,799.0,35
+E060,Smart Fitness Watch Pro,Wearables,6999.0,8
+E061,VR Headset for Smartphones,Gaming,1599.0,0
+E062,Handheld Gimbal Stabilizer,Photography,7499.0,5
+E063,Action Camera 4K Ultra HD,Photography,8999.0,7
+E064,Action Camera Accessory Kit,Photography,1299.0,25
+E065,Mini Drone with Camera,Electronics,5999.0,10
+E066,Smart Motion Sensor,Smart Home,799.0,18
+E067,Smart Smoke Detector Alarm,Smart Home,1499.0,12
+E068,Smart Water Leak Sensor,Smart Home,699.0,20
+E069,Smart Curtain Motor Controller,Smart Home,3499.0,5
+E070,Voice Assistant Smart Speaker,Smart Home,3999.0,14
+E071,Hi-Fi Bookshelf Speakers (Pair),Audio,6999.0,6
+E072,Neckband Bluetooth Earphones,Audio,1299.0,50
+E073,Gaming Headset with Mic & RGB,Gaming,2299.0,30
+E074,Vertical Laptop Stand Holder,Accessories,899.0,25
+E075,Monitor Light Bar Screen Hanging,Computing,2199.0,15
+E076,USB Desk Fan Rechargeable,Accessories,799.0,40
+E077,Mini Handheld Vacuum Cleaner,Accessories,1199.0,28
+E078,Smart Coffee Mug Warmer,Smart Home,1499.0,0
+E079,Digital Voice Recorder,Electronics,2499.0,10
+E080,Numeric Keypad USB,Computing,699.0,20
+E081,Type-C Hub 7-in-1 with Ethernet,Accessories,2199.0,22
+E082,Thunderbolt 4 Cable,Accessories,1899.0,12
+E083,DisplayPort to HDMI Cable,Accessories,499.0,35
+E084,VGA to HDMI Adapter Converter,Accessories,399.0,40
+E085,SATA to USB 3.0 Adapter Cable,Computing,599.0,30
+E086,M.2 NVMe SSD Enclosure Case,Computing,1299.0,18
+E087,Thermal Paste for CPU/GPU,Computing,399.0,60
+E088,Laptop Stand Foldable Aluminum,Accessories,1199.0,50
+E089,Smart Bedside Touch Lamp,Smart Home,1299.0,20
+E090,Automatic Soap Dispenser Touchless,Smart Home,899.0,25
+E091,Smart Key Finder Tracker,Accessories,599.0,45
+E092,UV Sterilizer Box for Gadgets,Health,1799.0,0
+E093,Mini Air Purifier for Desk,Health,2999.0,10
+E094,Rechargeable Hand Warmer Power Bank,Power,1499.0,15
+E095,Solar Charger Panel 10W,Power,1899.0,12
+E096,Car Dash Cam 1080p,Automotive,2999.0,14
+E097,OBD2 Car Diagnostic Scanner,Automotive,1599.0,16
+E098,Smart Bluetooth Padlock,Smart Home,1999.0,8
+E099,Electronic Safe Locker Digital,Home,4999.0,5
+E100,Smart Wi-Fi Garage Door Opener,Smart Home,3499.0,4
